@@ -1,0 +1,9 @@
+[submodule "ai-form-field-extractor-npm"]
+	path = ai-form-field-extractor-npm
+	url = https://github.com/mishrarpita321/ai-form-field-extractor-npm.git
+[submodule "ProxyAPIs"]
+	path = ProxyAPIs
+	url = https://github.com/mishrarpita321/ProxyAPIs.git
+[submodule "LLMBasedPatientFormFillingByVoice"]
+	path = LLMBasedPatientFormFillingByVoice
+	url = https://github.com/mishrarpita321/LLMBasedPatientFormFillingByVoice.git
